@@ -1,1 +1,8 @@
-# PortfolioGuide
+# Stephen's Portfolio 📒
+Welcome to my portfolio! Here, I document a summary of my projects in the software engineering field.
+
+|                                   Project Link                                  |                                                                          Description                                                                          | Language                                                            |
+|:-------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|----------------------------------------------------------------------|
+| 📽️ [Message Obfuscation](https://github.com/stagalamay/MessageObfuscation) |  A system that transforms readable text into an obfuscated format using a custom esolang (diropql) and layered encoding (BWT → MTF → RLE → Base85). Designed for reversible obfuscation with metadata handling, it showcases low-level data transformation, custom language design, and encoding pipelines. | rust |
+|⚽ [Error Correction](https://github.com/stagalamay/ErrorCorrection)        |                          A Python implementation of a Reed-Solomon-inspired error correction algorithm over the finite field GF(929). It detects and corrects transmission errors using syndrome computation, the Berlekamp-Massey algorithm, and Chien search—showcasing practical skills in finite field arithmetic and algorithm design.                        | python                                                       |
+| 📂 [Poverty Predictor](https://github.com/stagalamay/PovertyPredictorModel)    | Logistic Regression was used to make this model. Showcases techniques used for data preparation, feature analysis, logistic regression, and model evaluation. | python                          |
